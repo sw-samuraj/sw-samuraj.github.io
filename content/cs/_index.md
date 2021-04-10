@@ -2,4 +2,10 @@
 description = """FKT okruh na trase Černá Hora - Sněžka"""
 +++
 
-Tady bude nějaký úvod.
+## Co je to FKT?
+
+TBD
+
+## Co ej to Černá Sněžka?
+
+TBD
