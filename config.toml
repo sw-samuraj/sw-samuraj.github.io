@@ -1,0 +1,36 @@
+title = "Černá Sněžka"
+baseURL = "https://cernasnezka.cz"
+languageCode = "cs-cz"
+theme = "ananke"
+
+DefaultContentLanguage = "cs"
+SectionPagesMenu = "main"
+Paginate = 12
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+  [languages.cs]
+    title = "Černá Sněžka"
+    weight = 1
+    contentDir = "content/cs"
+  [languages.en]
+    title = "Black Snowy Mountain"
+    weight = 2
+    contentDir = "content/en"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  site_logo = "img/logo.png"
+  description = "FKT okruh na trase Černá Hora - Sněžka"
+  facebook = "https://facebook.com/CernaSnezka"
+  twitter = "https://twitter.com/CernaSnezka"
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "img/header-bg.jpg"
+  recent_posts_number = 2
