@@ -7,7 +7,7 @@ DefaultContentLanguage = "cs"
 SectionPagesMenu = "main"
 Paginate = 12
 googleAnalytics = ""
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 [languages]
   [languages.cs]
