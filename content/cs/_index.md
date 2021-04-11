@@ -1,5 +1,7 @@
 +++
+title = "Černá Sněžka"
 description = """FKT okruh na trase Černá Hora - Sněžka"""
+images = ["img/header-bg.jpg"]
 +++
 
 ## Co je to Černá Sněžka?
