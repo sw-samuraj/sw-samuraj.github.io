@@ -1,7 +1,7 @@
 +++
 title = "Pokusy"
 site_logo = "../img/logo.png"
-description = """Tabulka pokusů"""
+description = """Úspěšné i neúspěšné pokusy o zdolání FKT Černá Sněžka"""
 +++
 
 Tady bude tabulka s jednotlivými pokusy.
