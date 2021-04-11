@@ -25,7 +25,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
+  favicon = "img/favicon.ico"
   site_logo = "img/logo.png"
   description = "FKT okruh na trase Černá Hora - Sněžka"
   facebook = "https://facebook.com/CernaSnezka"
