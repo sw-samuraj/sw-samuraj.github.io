@@ -34,3 +34,4 @@ enableRobotsTXT = false
   background_color_class = "bg-black"
   featured_image = "img/header-bg.jpg"
   recent_posts_number = 2
+  env = "production"
