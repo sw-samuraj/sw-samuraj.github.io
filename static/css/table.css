@@ -1,0 +1,23 @@
+table {
+  border-top: 3px solid darkslategray;
+  border-bottom: 3px solid darkslategray;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  width: max-content;
+}
+
+thead {
+  border-bottom: 1px solid darkslategray;
+}
+
+td {
+  padding-left: 1em;
+  padding-right: 1em;
+  border-top: 1px solid darkslategray;
+}
+
+.measure-wide {
+  max-width: 50em;
+}
