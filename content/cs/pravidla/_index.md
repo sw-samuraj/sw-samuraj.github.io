@@ -8,7 +8,8 @@ description = """Pravidla pro uznání úspěšného pokusu zdolání FKT Čern�
    se krátkodobě odchýlit, ale vždy je potřeba se na něj opět vrátit.
 1. Start okruhu je z [centrálního parkoviště](//mapy.cz/s/keneluzuma)
    v Jánských Lázních. Je možné startovat i z jiného místa, pokud toto není
-   vzdáleno od uvedeného výchozího bodu více než 2 km.
+   vzdáleno od uvedeného výchozího bodu více než 2 km (trasa nesmí být
+   v tomto případě kratší, než nominálních 54 km).
 1. Směr okruhu není určen --- je možné jej absolvovat jak po směru, tak
    proti směru hodinových ručiček.
 1. Pro úspěšný pokus je potřeba trasu zvládnout v limitu 12 hodin,
