@@ -6,16 +6,16 @@ description = """Úspěšné i neúspěšné pokusy o zdolání FKT Černá Sně
 
 ## Rekordy
 
-| Kategorie | Jméno                | Datum        | Čas      | GPS                                    |
-|-----------|----------------------|--------------|----------|----------------------------------------|
-| ♂️         | Stepní běžec         | 30. 04. 2021 | 11:59:59 | [GPS záznam](//strava.com)             |
-| ♀️         | Heidy děvčátko z hor | 01. 05. 2021 | 09:42:42 | [GPS záznam](//connect.garmin.com)     |
-| ♂️  + ♀️    | Thor & Freya         | 06. 07. 2021 | 10:30:40 | [GPS záznam](//stepnibezec.cz)         |
+| Kategorie | Jméno                 | Datum        | Čas      | GPS                                                           |
+|-----------|-----------------------|--------------|----------|---------------------------------------------------------------|
+| ♂️         | Vít Kotačka, Jirka H. | 28. 05. 2021 | 09:36:59 | [GPS záznam](//connect.garmin.com/modern/activity/6857600703) |
+| ♀️         |                       |              |          |                                                               |
+| ♂️  + ♀️    |                       |              |          |                                                               |
 
 ## Pokusy
 
-| Pokus | Jméno              | Datum        | Čas      | GPS                                    | Dokončeno  | 
-|-------|--------------------|--------------|----------|----------------------------------------|------------|
-|     1 | Stepní běžec       | 30. 04. 2021 | 11:59:59 | [GPS záznam](//strava.com)             | 🥇 ♂️       |
-|     2 | Mountain runner    | 01. 05. 2021 | 09:42:42 | [GPS záznam](//connect.garmin.com)     | ❌         |
-|     3 | Freya              | 31. 12. 2021 | 07:59:59 | [GPS záznam](//strava.com)             | ✅         |
+| Pokus | Jméno              | Datum        | Čas      | GPS                                                           | Dokončeno  | 
+|-------|--------------------|--------------|----------|---------------------------------------------------------------|------------|
+|     1 | Vít Kotačka        | 28. 05. 2021 | 09:36:59 | [GPS záznam](//connect.garmin.com/modern/activity/6857600703) | ✅ 🥇 ♂️    |
+|     2 | Jirka H.           | 28. 05. 2021 | 09:36:59 | [GPS záznam](//connect.garmin.com/modern/activity/6857600703) | ✅ 🥇 ♂️    |
+|     3 | Petr B.            | 28. 05. 2021 |          |                                                               | ❌         |
