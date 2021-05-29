@@ -23,5 +23,7 @@ description = """Definice a popis trasy FKT Černá Sněžka"""
 
 Následující popis je pro variantu po směru hodinových ručiček:
 
+🚧 🚧 🚧 Popis se připravuje. Stay tuned! 🚧 🚧 🚧
+
 1. Start z centrálního parkoviště v Jánských Lázních.
 1. Po ??? směrem na ???
