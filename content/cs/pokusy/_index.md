@@ -11,6 +11,9 @@ description = """Úspěšné i neúspěšné pokusy o zdolání FKT Černá Sně
 | ♂️         | Vít Kotačka, Jirka H. | 28. 05. 2021 | 09:36:59 | [GPS záznam](//connect.garmin.com/modern/activity/6857600703) |
 | ♀️         |                       |              |          |                                                               |
 | ♂️  + ♀️    |                       |              |          |                                                               |
+| 🌌        |                       |              |          |                                                               |
+
+Legenda: ♂️  muž, ♀️  žena, ♂️  + ♀️ smíšený pár, 🌌 noční varianta.
 
 ## Pokusy
 

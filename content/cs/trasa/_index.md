@@ -4,7 +4,7 @@ site_logo = "../img/logo.png"
 description = """Definice a popis trasy FKT Černá Sněžka"""
 +++
 
-## Souřadnice trasy
+## Souřadnice
 
 * [GPX soubor](../../files/FKT-Cerna-Snezka.gpx)
 * [Trasa Mapy.cz](//mapy.cz/s/kuhumuresu)
