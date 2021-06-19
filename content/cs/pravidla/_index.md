@@ -23,3 +23,7 @@ description = """Pravidla pro uznání úspěšného pokusu zdolání FKT Čern�
 1. Pro zaznamenání úspěšného pokusu musí účastník doložit dvě fotografie: jednu
    z Černé hory a jednu ze Sněžky. Fotky je potřeba taktéž publikovat u příspěvku,
    kterým se ohlašuje pokus o zdolání.
+
+**Dodatečné pravidlo pro noční variantu 🌌 (samostatná kategorie):**
+
+9. Start noční varianty musí (celoročně) proběhnout ve 22:00 (± 15 minut).
