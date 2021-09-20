@@ -1,7 +1,8 @@
 +++
 title = "Trasa"
-site_logo = "../img/logo.png"
 description = """Definice a popis trasy FKT Černá Sněžka"""
+site_logo = "../img/logo.png"
+images = ["img/header-bg.jpg"]
 +++
 
 ## Souřadnice

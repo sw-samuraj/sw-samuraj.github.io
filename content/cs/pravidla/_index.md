@@ -1,7 +1,8 @@
 +++
 title = "Pravidla"
-site_logo = "../img/logo.png"
 description = """Pravidla pro uznání úspěšného pokusu zdolání FKT Černá Sněžka"""
+site_logo = "../img/logo.png"
+images = ["img/header-bg.jpg"]
 +++
 
 1. Trasa okruhu je pevně daná (viz [trasa](/trasa)). Z okruhu je možné

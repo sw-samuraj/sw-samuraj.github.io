@@ -1,7 +1,8 @@
 +++
 title = "Pokusy"
-site_logo = "../img/logo.png"
 description = """Úspěšné i neúspěšné pokusy o zdolání FKT Černá Sněžka"""
+site_logo = "../img/logo.png"
+images = ["img/header-bg.jpg"]
 +++
 
 ## Držitelé FKT
