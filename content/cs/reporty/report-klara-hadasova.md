@@ -4,8 +4,8 @@ description = "Report z prvního ženského FKT"
 date = 2021-09-27T12:39:53+02:00
 tags = ["report"]
 site_logo = "../../img/logo.png"
-featured_image = "/aktuality/img/Report-3.jpg"
-images = ["/aktuality/img/Report-3.jpg"]
+featured_image = "/reporty/img/Report-3.jpg"
+images = ["/reporty/img/Report-3.jpg"]
 draft = true
 +++
 
