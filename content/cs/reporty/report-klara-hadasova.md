@@ -12,4 +12,4 @@ draft = true
 Aktuální držitelka ženského FKT sepsala svůj popis trasy, včetně problematických
 míst, kde vás navigace [Mapy.cz](//mapy.cz/s/kuhumuresu) může poslat špatným směrem.
 
-Čtěte: [Zápisky zralé poběhlice: FKT Černá Sněžka](//zapiskyzralepobehlice.conovehonakopci.cz/2017/01/09/ahoj-vsichni/)
+Čtěte: [Zápisky zralé poběhlice: FKT Černá Sněžka](//zapiskyzralepobehlice.conovehonakopci.cz/2021/09/27/ahoj-vsichni/)
