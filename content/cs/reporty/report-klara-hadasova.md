@@ -1,12 +1,11 @@
 +++
 title = "Report od Kláry Hadašové"
 description = "Report z prvního ženského FKT"
-date = 2021-09-27T12:39:53+02:00
+date = 2021-09-29T11:07:15+02:00
 tags = ["report"]
 site_logo = "../../img/logo.png"
 featured_image = "/reporty/img/Report-3.jpg"
 images = ["/reporty/img/Report-3.jpg"]
-draft = true
 +++
 
 Aktuální držitelka ženského FKT sepsala svůj popis trasy, včetně problematických
