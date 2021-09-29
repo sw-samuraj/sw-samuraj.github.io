@@ -27,6 +27,7 @@ enableRobotsTXT = false
 [params]
   favicon = "img/favicon.ico"
   site_logo = "img/logo.png"
+  taxonomy_logo = "../../img/logo.png"
   description = "FKT okruh na trase Černá Hora - Sněžka"
   facebook = "https://facebook.com/CernaSnezka"
   twitter = "https://twitter.com/CernaSnezka"
