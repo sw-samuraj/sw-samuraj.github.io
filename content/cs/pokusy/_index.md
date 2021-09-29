@@ -20,10 +20,10 @@ Legenda: ♂️  muž, ♀️  žena, ♂️  + ♀️ smíšený pár, 🌌 no�
 
 | Čas      | Datum        | Jméno                               | Poznámka                                          |
 |----------|--------------|-------------------------------------|---------------------------------------------------|
-| 09:36:59 | 28. 05. 2021 | Vít Kotačka, Jirka H.               | Kontrolní proběhnutí trasy                        |
-| 09:08:29 | 09. 07. 2021 | Vít Kotačka                         | První FKT noční varianty 🌌                       |
-| 08:37:09 | 25. 07. 2021 | Ondřej Marek, Vojtěch Mlčoch        |                                                   |
-| 06:28:06 | 19. 09. 2021 | Jiří Křenek                         |                                                   |
+| 09:36:59 | 28. 05. 2021 | Vít Kotačka, Jirka H.               | Kontrolní proběhnutí trasy ♂️                      |
+| 09:08:29 | 09. 07. 2021 | Vít Kotačka                         | První FKT noční varianty ♂️ 🌌                     |
+| 08:37:09 | 25. 07. 2021 | Ondřej Marek, Vojtěch Mlčoch        | ♂️                                                 |
+| 06:28:06 | 19. 09. 2021 | Jiří Křenek                         | ♂️                                                 |
 | 08:34:54 | 26. 09. 2021 | Klára Hadašová                      | První ženské FKT ♀️                                |
 
 ## Pokusy
