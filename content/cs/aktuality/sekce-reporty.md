@@ -1,7 +1,7 @@
 +++
 title = "Nová sekce Reporty"
 description = "Všechny zkušenosti běžců na jednom místě"
-date = 2021-09-29T15:40:40+02:00
+date = 2021-10-01T09:02:15+02:00
 tags = ["info"]
 site_logo = "../../img/logo.png"
 featured_image = "../aktuality/img/Reports.jpg"
