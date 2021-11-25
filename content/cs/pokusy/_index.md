@@ -37,5 +37,6 @@ Legenda: ♂️  muž, ♀️  žena, ♂️  + ♀️ smíšený pár, 🌌 no�
 |     5 | Ondřej Marek       | 25. 07. 2021 | 08:37:09 | [GPS záznam](//sports-tracker.com/workout/ondejmarek/60fd568e8d65591692983948) | ✅ |
 |     6 | Vojtěch Mlčoch     | 25. 07. 2021 | 08:37:09 | [GPS záznam](//sports-tracker.com/workout/ondejmarek/60fd568e8d65591692983948) | ✅ |
 |     7 | Jiří Křenek        | 19. 09. 2021 | 06:28:06 | [GPS záznam](//www.strava.com/activities/5986147030)          | ✅ 🥇 ♂️       |
-|     8 | Klára Hadašová     | 26. 09. 2021 | 08:34:54 | [GPS záznam](//connect.garmin.com/modern/activity/7557836272) | ✅ 🥇 ♀️  (🥉) |
+|     8 | Klára Hadašová     | 26. 09. 2021 | 08:34:54 | [GPS záznam](//connect.garmin.com/modern/activity/7557836272) | ✅ 🥇 ♀️       |
 |     9 | Daniel Horyna      | 03. 10. 2021 | 07:07:45 | [GPS záznam](//www.strava.com/activities/6058928795)          | ✅ 🥈 ♂️       |
+|    10 | Jan Drbohlav       | 25. 11. 2021 | 07:52:12 | [GPS záznam](//www.strava.com/activities/6306101654)          | ✅ 🥉 ♂️       |
