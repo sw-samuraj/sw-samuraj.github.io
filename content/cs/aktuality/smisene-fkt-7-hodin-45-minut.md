@@ -1,7 +1,7 @@
 +++
 title = "První smíšené FKT a nové ženské FKT!"
 description = "V čase 7:45"
-date = 2022-07-07T12:43:04+02:00
+date = 2022-07-07T23:41:31+02:00
 tags = ["fkt"]
 site_logo = "../../img/logo.png"
 featured_image = "/aktuality/img/FKT-M-1.jpg"
