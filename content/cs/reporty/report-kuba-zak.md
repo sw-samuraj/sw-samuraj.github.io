@@ -6,6 +6,7 @@ tags = ["report"]
 site_logo = "../../img/logo.png"
 featured_image = "/reporty/img/report-4/header.jpg"
 images = ["/reporty/img/report-4/header.jpg"]
+author = "Kuba Žák"
 +++
 
 FKT výzvu _Černá Sněžka_ jsem zaregistroval někdy před rokem. Zaujala mě
@@ -16,7 +17,7 @@ jsem odjížděl zničený, ale nadšený. :)
 
 Prodloužený sváteční týden v červenci se jevil jako ideální okénko pro nějaký dlouhý běh.
 S mou běžeckou i životní parťačkou Adélkou máme tak vyrovnané tempo, že většinu běhů
-absolvujeme spolu. V kolonce [pokusy](/pokusy) na webu navíc smutně svítila prázdná kolonka
+absolvujeme spolu. V kolonce [pokusy](/pokusy/) na webu navíc smutně svítila prázdná kolonka
 v kategorii smíšeného FKT, další motivační bonus k už tak atraktivní vyhlídce pěkného
 dne v horách. 
 
@@ -25,9 +26,10 @@ dne v horách.
 
 Rozhodnutí padlo jen pár dnů předem, takže nebyl čas na nějaké dlouhé plánování.
 Trasa byla celkem jasná, v orientaci a vytipování nebezpečných „kufrovacích“ míst
-celkem dobře posloužily reporty z proběhlých pokusů na webu (díky!). Abychom
-do běhu nastoupili hezky odpočatí, ubytovali jsme se v chatě Viktorka (nevím,
-jestli můžu s klidným svědomím doporučit :)) vedle místa startu – lanovky na ČH.
+celkem dobře posloužily [reporty](/reporty/) z proběhlých pokusů na webu (díky!).
+
+Abychom do běhu nastoupili hezky odpočatí, ubytovali jsme se v chatě Viktorka (nevím,
+jestli můžu s klidným svědomím doporučit :)) vedle místa startu --- lanovky na ČH.
 
 Počasí hlásilo zataženo až polojasno, ideální běžecké podmínky. Ač nemám rád tahat
 s sebou zbytečnosti, do vesty jsem kromě nezbytné výživy přidal i hole na pozdní fázi
@@ -112,7 +114,7 @@ s dvěma (0,5L + 0,25L) soft lahvema a v pohodě, až na Jelenku teda. :)
 
 V úseku Pomezky --- Malá Úpa děláme chybu, místo po červený běžíme po modrý.
 Vedou paralelně vedle sebe, moc jsme si to nezkrátili, ale přesto se vracíme
-do půlky červený a bežíme ji zpátky, abychom si cestu nezkrátili.
+do půlky červený a bežíme jí zpátky, abychom si cestu nezkrátili.
 V Malé Úpě přichází další krizička, dáváme další gel, Ajdulák teprve
 první (nerada gely).
 
