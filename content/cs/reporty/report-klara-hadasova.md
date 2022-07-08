@@ -1,6 +1,6 @@
 +++
 title = "Report od Kláry Hadašové"
-description = "Report z prvního ženského FKT"
+description = "Zápis z prvního ženského FKT"
 date = 2021-09-29T11:07:15+02:00
 tags = ["report"]
 site_logo = "../../img/logo.png"
