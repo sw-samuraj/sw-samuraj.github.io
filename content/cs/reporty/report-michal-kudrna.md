@@ -16,7 +16,7 @@ Krkonoše mám velmi rád, často zde běhám po kopcích. Mám je téměř cel�
 ale oblast okolo Černé hory mi stále unikala --- důvod č. 1 pro FKT Černá Sněžka.
 
 Mám v plánu vyzkoušet tuto běžeckou výzvu již dlouho. Když jsem dělal rozhovor
-s autorem výzvy Vítem Kotačkou pro můj blog Sportigo.cz (rozhovor je zde:
+s autorem výzvy Víťou Kotačkou pro můj blog Sportigo.cz (rozhovor je zde:
 [Vyhovuje mi meditační povaha dlouhých tratí](//www.sportigo.cz/rozhovor-vyhovuje-mi-meditacni-povaha-dlouhych-trati/)),
 říkal jsem si: „To by bylo něco pro mne, to si musím vyzkoušet.“ Od té chvíle
 uplynul více než rok --- důvod č. 2 pro FKT Černá Sněžka.
