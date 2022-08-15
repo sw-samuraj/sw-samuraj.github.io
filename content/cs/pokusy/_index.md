@@ -53,3 +53,4 @@ Legenda: ♂️  muž, ♀️  žena, ♀️  + ♂️ smíšený pár, 🌌 no�
 |    12 | Kuba Žák           | 04. 07. 2022 | 07:45:38 | [GPS záznam](//www.strava.com/activities/7416157232)          | ✅            |
 |    13 | Michal Kudrna      | 16. 07. 2022 | 07:27:29 | [GPS záznam](//www.strava.com/activities/7479883354)          | ✅ 🥉 ♂️       |
 |    14 | Tomáš Říha         | 21. 07. 2022 |          |                                                               | ❌ 🌌         |
+|    15 | Zuzana Janová      | 05. 08. 2022 | 09:23:28 | [GPS záznam](//www.strava.com/activities/7587076423)          | ✅ 🥉 ♀️       |
