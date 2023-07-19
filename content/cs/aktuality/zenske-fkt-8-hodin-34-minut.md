@@ -4,8 +4,8 @@ description = "Druhé místo celkově"
 date = 2021-09-27T11:52:35+02:00
 tags = ["fkt"]
 site_logo = "../../img/logo.png"
-featured_image = "/aktuality/img/FKT-W-1.jpg"
-images = ["/aktuality/img/FKT-W-1.jpg"]
+featured_image = "/cs/aktuality/img/FKT-W-1.jpg"
+images = ["/cs/aktuality/img/FKT-W-1.jpg"]
 +++
 
 Máme tady první úspěšný ženský pokus a tím pádem i první dámské FKT. V čase

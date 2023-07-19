@@ -4,8 +4,8 @@ description = "První smíšené FKT"
 date = 2022-07-08T12:21:13+02:00
 tags = ["report"]
 site_logo = "../../img/logo.png"
-featured_image = "/reporty/img/report-4/header.jpg"
-images = ["/reporty/img/report-4/header.jpg"]
+featured_image = "/cs/reporty/img/report-4/header.jpg"
+images = ["/cs/reporty/img/report-4/header.jpg"]
 author = "Kuba Žák"
 +++
 
@@ -21,8 +21,8 @@ absolvujeme spolu. V kolonce [pokusy](/pokusy/) na webu navíc smutně svítila 
 v kategorii smíšeného FKT, další motivační bonus k už tak atraktivní vyhlídce pěkného
 dne v horách. 
 
-{{< figure src="/reporty/img/report-4/Img-1.jpg"
-    link="/reporty/img/report-4/Img-1.jpg" >}}
+{{< figure src="/cs/reporty/img/report-4/Img-1.jpg"
+    link="/cs/reporty/img/report-4/Img-1.jpg" >}}
 
 Rozhodnutí padlo jen pár dnů předem, takže nebyl čas na nějaké dlouhé plánování.
 Trasa byla celkem jasná, v orientaci a vytipování nebezpečných „kufrovacích“ míst
@@ -36,30 +36,30 @@ s sebou zbytečnosti, do vesty jsem kromě nezbytné výživy přidal i hole na 
 běhu. Ambice? Doběhnout si pro mixové FKT. Ale červíček v hlavě kouká na [FKT Jiřího
 Křenka](/aktuality/fkt-6-hodin-28-minut/) a říká mi: „Opiš si mezičasy a uvidíš“. :)
 
-{{< figure src="/reporty/img/report-4/Img-2.jpg"
-    link="/reporty/img/report-4/Img-2.jpg" >}}
+{{< figure src="/cs/reporty/img/report-4/Img-2.jpg"
+    link="/cs/reporty/img/report-4/Img-2.jpg" >}}
 
 V 7:30 hezky vyspinkaní startujeme od lanovky do kopce po modré trase směrem
 na Zrcadlovky. Mírné a táhlé stoupání po asfaltu (ještě si na něj zanadávám) vybízí
 k běhu, lýtka se ale po ránu probouzí pomalu, radši je šetřím a prokládáme běh chůzí.
 U Zrcadlovek asfalt konečně přechází ve zpevněnou lesní cestu a otevírají se dálkové výhledy.
 
-{{< figure src="/reporty/img/report-4/Img-3.jpg"
-    link="/reporty/img/report-4/Img-3.jpg" >}}
+{{< figure src="/cs/reporty/img/report-4/Img-3.jpg"
+    link="/cs/reporty/img/report-4/Img-3.jpg" >}}
 
 Seběh do údolí Čisté trefujeme napoprvé (díky [Kláro](/reporty/report-klara-hadasova/)),
 dole máme 5 minut ztrátu na FKT. Ve stoupání na Hrnčířské boudy zabíráme. Běžíme na Liščí
 louku, nikde ani noha, hory máme pro sebe.
 
-{{< figure src="/reporty/img/report-4/Img-4.jpg"
-    link="/reporty/img/report-4/Img-4.jpg" >}}
+{{< figure src="/cs/reporty/img/report-4/Img-4.jpg"
+    link="/cs/reporty/img/report-4/Img-4.jpg" >}}
 
 Úsek přes Liščí horu absolvuju poprvé a je jedním z nejkrásnějších míst trasy, poprvé
 vidíme Sněžku. Pokračujeme trailovou cestičkou na Bufet Na Rozcestí, kam dorážíme
 s minutovou ztrátou na aktuální FKT.
 
-{{< figure src="/reporty/img/report-4/Img-5.jpg"
-    link="/reporty/img/report-4/Img-5.jpg" >}}
+{{< figure src="/cs/reporty/img/report-4/Img-5.jpg"
+    link="/cs/reporty/img/report-4/Img-5.jpg" >}}
 
 Následuje přeběh k Výrovce a stoupání ke Kapličce. Tempo FKT nás žene, přesto
 ve stoupání prokládáme běh chůzí. Asfaltový povrch nám vynahrazují dálkové výhledy
@@ -67,8 +67,8 @@ do Modrého dolu, vidíme vzdálenou Černou horu. Od Kapličky pozorujeme déš
 nad Vysokým kolem. Při seběhu k Luční boudě se déšť nezadržitelně blíží…
 Rovnou pokračujeme po žluté směrem k polské hranici.
 
-{{< figure src="/reporty/img/report-4/Img-6.jpg"
-    link="/reporty/img/report-4/Img-6.jpg" >}}
+{{< figure src="/cs/reporty/img/report-4/Img-6.jpg"
+    link="/cs/reporty/img/report-4/Img-6.jpg" >}}
 
 Cesta je dlážděná velkými kameny, po okraji se dá celkem obstojně běžet.
 Při překročení hranice máme možnost srovnat umění českých a polských cestářů.
@@ -77,8 +77,8 @@ nemá s horskými chodníky moc společného, k běhání to moc není, ale ješ
 pořád se to dá. Na polské hranici dávám první gel. Pozorujeme déšť,
 jdoucí do Polska. Super, zvládneme to suchou nohou :)
 
-{{< figure src="/reporty/img/report-4/Img-7.jpg"
-    link="/reporty/img/report-4/Img-7.jpg" >}}
+{{< figure src="/cs/reporty/img/report-4/Img-7.jpg"
+    link="/cs/reporty/img/report-4/Img-7.jpg" >}}
 
 Dobíháme pod Sněžku, kde nás poprvé a naposledy povzbuzuje polský turista.
 Jinak lidi většinou jen čumí, kolikrát ani neodpoví na pozdrav. Naštěstí
@@ -91,8 +91,8 @@ Na vrcholu jsme ve stejném mezičase jako aktuální FKT. Na Sněžce minimum
 lidí, :) následuje povinné foto, rychlé kochnutí se výhledem :(
 (sakra, odsud nechceš spěchat) a rychle dál po trase.
 
-{{< figure src="/reporty/img/report-4/Img-8.jpg"
-    link="/reporty/img/report-4/Img-8.jpg" >}}
+{{< figure src="/cs/reporty/img/report-4/Img-8.jpg"
+    link="/cs/reporty/img/report-4/Img-8.jpg" >}}
 
 V následujícím úseku se něco zlomí. Možná za to může rozbitý chodník,
 možná sklon, možná únava, ale v úseku na Jelenku nabíráme rozhodující
@@ -118,8 +118,8 @@ do půlky červený a bežíme jí zpátky, abychom si cestu nezkrátili.
 V Malé Úpě přichází další krizička, dáváme další gel, Ajdulák teprve
 první (nerada gely).
 
-{{< figure src="/reporty/img/report-4/Img-9.jpg"
-    link="/reporty/img/report-4/Img-9.jpg" >}}
+{{< figure src="/cs/reporty/img/report-4/Img-9.jpg"
+    link="/cs/reporty/img/report-4/Img-9.jpg" >}}
 
 Na Cestníku jsme celkem vyřízený. Následuje přeběh Dlouhého hřebenu, který
 jsem překřtil na „Ku*va Dlouhý hřeben“. Nekonečných 7 km, naštěstí pěknou
@@ -145,8 +145,8 @@ Rvem to nahoru. Po nekonečných útrapách dobíháme k Černé boudě. Tam dá
 malinovku a sbíráme síly na finiš. Adélka z vyčerpání potlačuje slzy.
 Posílám tam další gel, s obavou, jestli ho žaludek přijme. Dobrý :)
 
-{{< figure src="/reporty/img/report-4/Img-10.jpg"
-    link="/reporty/img/report-4/Img-10.jpg" >}}
+{{< figure src="/cs/reporty/img/report-4/Img-10.jpg"
+    link="/cs/reporty/img/report-4/Img-10.jpg" >}}
 
 U rozhledny další povinná fotka a „valíme“ to dolů. Kéž by byly síly pustit
 to naplno. Sáňkařská cesta je prudká, cítím kolena. Hodinky ukazují 2,5 km
@@ -154,8 +154,8 @@ do cíle, tohle už dáme… Červená střídá modrou, už vidíme most přes 
 probíháme k lanovce, sbíháme na parkoviště. Stopuju hodinky, přichází úleva,
 vidím tam i nějaký slzičky štěstí. :)
 
-{{< figure src="/reporty/img/report-4/Img-11.jpg"
-    link="/reporty/img/report-4/Img-11.jpg" >}}
+{{< figure src="/cs/reporty/img/report-4/Img-11.jpg"
+    link="/cs/reporty/img/report-4/Img-11.jpg" >}}
 
 Dali jsme to. Jsme v cíli. Už nemusíme nikam běžet. :) Pěkně jsme se potrápili.
 Kolikrát jsme si na trase notovali to naše oblíbený: „Proč to vlastně děláme?
@@ -181,8 +181,8 @@ dojem je ale pozitivní a prožili jsme krásnej den v našich nej horách.
 I když to teda dost bolelo. :) Jděte do toho! :) A nezapomeňte se
 pořádně odměnit!
 
-{{< figure src="/reporty/img/report-4/Img-12.jpg"
-    link="/reporty/img/report-4/Img-12.jpg" >}}
+{{< figure src="/cs/reporty/img/report-4/Img-12.jpg"
+    link="/cs/reporty/img/report-4/Img-12.jpg" >}}
 
 PS: Malej tip na závěr --- v JL je v bazén s luxusní vířivkou a venkovní saunou.
 :) Nemáte zač!

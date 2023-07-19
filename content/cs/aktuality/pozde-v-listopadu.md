@@ -4,8 +4,8 @@ description = "A zaběhnout celkově třetí místo"
 date = 2021-11-26T11:54:20+01:00
 tags = ["info"]
 site_logo = "../../img/logo.png"
-featured_image = "/aktuality/img/Late-November.jpg"
-images = ["/aktuality/img/Late-November.jpg"]
+featured_image = "/cs/aktuality/img/Late-November.jpg"
+images = ["/cs/aktuality/img/Late-November.jpg"]
 +++
 
 _Černá Sněžka_ se dá běhat v různých ročních obdobích a **Jan Drbohlav**

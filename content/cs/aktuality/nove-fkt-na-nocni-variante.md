@@ -4,8 +4,8 @@ description = "Nové FKT, jak absolutně, tak v rámci noční varianty"
 date = 2021-07-12T19:10:10+02:00
 tags = ["fkt"]
 site_logo = "../../img/logo.png"
-featured_image = "/aktuality/img/Night-FKT.jpg"
-images = ["/aktuality/img/Night-FKT.jpg"]
+featured_image = "/cs/aktuality/img/Night-FKT.jpg"
+images = ["/cs/aktuality/img/Night-FKT.jpg"]
 +++
 
 Máme tady nové FKT --- jak absolutní, tak i na zbrusu nové _noční

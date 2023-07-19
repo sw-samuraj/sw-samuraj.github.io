@@ -4,8 +4,8 @@ description = "Registrace na FastestKnownTime.com a přidání anglické verze s
 date = 2021-06-21T16:23:29+02:00
 tags = ["info"]
 site_logo = "../../img/logo.png"
-featured_image = "../aktuality/img/English.jpg"
-images = ["../aktuality/img/English.jpg"]
+featured_image = "/cs/aktuality/img/English.jpg"
+images = ["/cs/aktuality/img/English.jpg"]
 +++
 
 Posouváme se do mezinárodních vod! Web byl přeložen do angličtiny.
