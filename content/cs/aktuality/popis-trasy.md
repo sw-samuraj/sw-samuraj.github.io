@@ -4,8 +4,8 @@ description = "Přidán popis trasy a pravidlo pro noční variantu"
 date = 2021-06-19T12:53:30+02:00
 tags = ["info"]
 site_logo = "../../img/logo.png"
-featured_image = "../aktuality/img/Nocni-Krkonose.jpg"
-images = ["../aktuality/img/Nocni-Krkonose.jpg"]
+featured_image = "/cs/aktuality/img/Nocni-Krkonose.jpg"
+images = ["/cs/aktuality/img/Nocni-Krkonose.jpg"]
 +++
 
 Na webu přibyly dvě změny: zaprvé, na stránce [Trasa](/trasa)

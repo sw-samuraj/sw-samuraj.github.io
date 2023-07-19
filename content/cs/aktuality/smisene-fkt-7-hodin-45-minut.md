@@ -4,8 +4,8 @@ description = "V čase 7:45"
 date = 2022-07-07T23:41:31+02:00
 tags = ["fkt"]
 site_logo = "../../img/logo.png"
-featured_image = "/aktuality/img/FKT-M-1.jpg"
-images = ["/aktuality/img/FKT-M-1.jpg"]
+featured_image = "/cs/aktuality/img/FKT-M-1.jpg"
+images = ["/cs/aktuality/img/FKT-M-1.jpg"]
 +++
 
 Zatím se v této sezóně na Černou Sněžku nikdo moc nehrne, ale hned první

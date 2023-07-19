@@ -4,8 +4,8 @@ description = "Všechny zkušenosti běžců na jednom místě"
 date = 2021-10-01T09:02:15+02:00
 tags = ["info"]
 site_logo = "../../img/logo.png"
-featured_image = "../aktuality/img/Reports.jpg"
-images = ["../aktuality/img/Reports.jpg"]
+featured_image = "/cs/aktuality/img/Reports.jpg"
+images = ["/cs/aktuality/img/Reports.jpg"]
 +++
 
 Na stránkách _Černá Sněžka_ přibyla nová sekce [Reporty](/reporty),

@@ -4,8 +4,8 @@ description = "Zápis z prvního ženského FKT"
 date = 2021-09-29T11:07:15+02:00
 tags = ["report"]
 site_logo = "../../img/logo.png"
-featured_image = "/reporty/img/report-3/header.jpg"
-images = ["/reporty/img/report-3/header.jpg"]
+featured_image = "/cs/reporty/img/report-3/header.jpg"
+images = ["/cs/reporty/img/report-3/header.jpg"]
 author = "Klára Hadašová"
 +++
 
@@ -42,8 +42,8 @@ okolo Krkonoš! Tohle nikou nedává smysl přece!“.
 Za Ádrem nad Chvalčí mineme příslib pěkného dne a v Jankách jsme před osmou.
 Odjíždějí a nechávají mě napospas nervozitě a 51 kilometrům.
 
-{{< figure src="/reporty/img/report-3/Img-1.jpg"
-    link="/reporty/img/report-3/Img-1.jpg" >}}
+{{< figure src="/cs/reporty/img/report-3/Img-1.jpg"
+    link="/cs/reporty/img/report-3/Img-1.jpg" >}}
 
 ## 1. úsek: Janky --- Liščí hora
 
@@ -55,8 +55,8 @@ cestou, a protože jsem ten nejmenší pankáč doma --- vlastně vůbec žádn�
 hlášky typu --- tak to tam střihneš --- mě ne zcela přesvědčují a nakonec se
 kvůli takové banalitě rozhoduju jít klasicky po směru.
 
-{{< figure src="/reporty/img/report-3/Img-2.jpg"
-    link="/reporty/img/report-3/Img-2.jpg" >}}
+{{< figure src="/cs/reporty/img/report-3/Img-2.jpg"
+    link="/cs/reporty/img/report-3/Img-2.jpg" >}}
 
 Z Janek od Lanovky se běží poměrně krátký úsek na začátek sjezdovky a příjemý
 kopec člověka hezky rozhřeje, chybí mi ta čelenka --- která je někde doma nebo
@@ -65,8 +65,8 @@ na asfaltku vedoucí směr Zrcadlovky, přímo tam se už ale přechází na les
 zpevěnou cestu --- tam jsem ráda, že nemusím jako piloti s paraglidovým báglem
 doprava nahoru po žluté a s úsměvem --- stále ještě --- běžím dál.
 
-{{< figure src="/reporty/img/report-3/Img-3.jpg"
-    link="/reporty/img/report-3/Img-3.jpg"
+{{< figure src="/cs/reporty/img/report-3/Img-3.jpg"
+    link="/cs/reporty/img/report-3/Img-3.jpg"
     caption="Pohled od Zrcadlovek doleva do kraje" >}}
 
 Následuje krásný seběh ze Zrcadovek. Nečekaně příjemný, tempo lze dobře nasadit,
@@ -81,8 +81,8 @@ _Následně hned na cca 7,4 km mapy nechají odbočit vlevo --- myslí tím ovš
 zatáčku na modrou, po které je nutné následně vzít pravou! To už ovšem paní
 na mapách nedoporučí!_
 
-{{< figure src="/reporty/img/report-3/Img-4.jpg"
-    link="/reporty/img/report-3/Img-4.jpg"
+{{< figure src="/cs/reporty/img/report-3/Img-4.jpg"
+    link="/cs/reporty/img/report-3/Img-4.jpg"
     caption="Pozor na správnou trasu" >}}
 
 Následuje krásný výběh na Cihlářskou a Hrnčířskou boudu, kde se otevírá výhled doleva
@@ -91,8 +91,8 @@ na pláně, kam člověk míří. Potkávám sympatického horala, který se usm
 „Včera tu běželi závod!“ on na mě, „To byla Krakonošova stovka říkám, ale to až příští
 rok, když Bůh dá!“
 
-{{< figure src="/reporty/img/report-3/Img-5.jpg"
-    link="/reporty/img/report-3/Img-5.jpg"
+{{< figure src="/cs/reporty/img/report-3/Img-5.jpg"
+    link="/cs/reporty/img/report-3/Img-5.jpg"
     caption="Cesta pokračuje na Liščí horu a stále nahoru, moc seběhů tady nyní nebude." >}}
 
 ## 2. úsek: Liščí hora --- Pomezní boudy
@@ -101,8 +101,8 @@ Před Ličší se poprvé po pravé straně otevírá krásný výhled na Sněž
 před polovinou trasy. Je to na obzoru fakt dálka, ale chce to vidět pozitivně, v tak
 hezký den ještě hodně pěkné trasy před sebou.
 
-{{< figure src="/reporty/img/report-3/header.jpg"
-    link="/reporty/img/report-3/header.jpg"
+{{< figure src="/cs/reporty/img/report-3/header.jpg"
+    link="/cs/reporty/img/report-3/header.jpg"
     caption="První výhled na Sněžku --- a je to fakt daleko!" >}}
 
 Přede mnou skvělá trasa na Bufáč (Chata na rozcestí), který mě trochu mate,
@@ -133,8 +133,8 @@ Docela mě překvapuje čas, na Sněžce mám 3:23 a je to cca 22 km, říkám s
 super, to nevypadá špatně, vzhledem k tomu, že je to ta horší půlka ---
 ale chyba lávky, trať je příliš dobře sestavená. :)
 
-{{< figure src="/reporty/img/report-3/Img-6.jpg"
-    link="/reporty/img/report-3/Img-6.jpg" >}}
+{{< figure src="/cs/reporty/img/report-3/Img-6.jpg"
+    link="/cs/reporty/img/report-3/Img-6.jpg" >}}
 
 Nahoře nezbytná fotka pro FKT --- prosím náhodnou turistku a pak už pospíchám
 za oním běžcem, že ho jako doběhnu! Ani náhodou! Všude strašně lidí, šutry,
@@ -154,8 +154,8 @@ do Temného dolu, pro mě nejhezčí část cesty.
 
 Po cestě zprava výhledy na úpské sjezdovky a pohled na Černou, kam si to mířím.
 
-{{< figure src="/reporty/img/report-3/Img-7.jpg"
-    link="/reporty/img/report-3/Img-7.jpg" >}}
+{{< figure src="/cs/reporty/img/report-3/Img-7.jpg"
+    link="/cs/reporty/img/report-3/Img-7.jpg" >}}
 
 _Pro tragédy 2: pozor při seběhu na nějakém 39. km. Mapy.cz pošlou člověka
 ostrou vpravo. Pokud cestu nikdy neběžel, netuší, že se jedná o lesní modrou,
@@ -167,31 +167,31 @@ mi hodinky hlásí, že jsem uhnula z trasy. Tak zpět --- připočítávám si 
 fakt geneticky neuzpůsobená, tak jsem ráda za ty dary --- že takhle hodně
 zatím jen jednou._
 
-{{< figure src="/reporty/img/report-3/Img-8.jpg"
-    link="/reporty/img/report-3/Img-8.jpg"
+{{< figure src="/cs/reporty/img/report-3/Img-8.jpg"
+    link="/cs/reporty/img/report-3/Img-8.jpg"
     caption="Zde zvolit správnou trasu --- modrou" >}}
 
-{{< figure src="/reporty/img/report-3/Img-9.jpg"
-    link="/reporty/img/report-3/Img-9.jpg"
+{{< figure src="/cs/reporty/img/report-3/Img-9.jpg"
+    link="/cs/reporty/img/report-3/Img-9.jpg"
     caption="Moje „nábližka“" >}}
 
-{{< figure src="/reporty/img/report-3/Img-10.jpg"
-    link="/reporty/img/report-3/Img-10.jpg"
+{{< figure src="/cs/reporty/img/report-3/Img-10.jpg"
+    link="/cs/reporty/img/report-3/Img-10.jpg"
     caption="Správná je ta lesní vespod" >}}
 
 Následuje skvělý seběh podél křížové cesty --- velmi osobité a moc hezké
 ke kapli sv. Anny (bacha na dřevorubce, jede motorovka, těsně pode mnou,
 dřevorubce nevidno --- čekám, zda zrovna nezačne padat strom 🙂).
 
-{{< figure src="/reporty/img/report-3/Img-11.jpg"
-    link="/reporty/img/report-3/Img-11.jpg" >}}
+{{< figure src="/cs/reporty/img/report-3/Img-11.jpg"
+    link="/cs/reporty/img/report-3/Img-11.jpg" >}}
 
 _Něco pro tragédy 3: po seběhu na hlavní v Maršově --- resp. těsně před tím,
 nabádá navigace běžce, aby to vzal doleva před domy u silnice. Podle mapy
 je jasné, že je nutné seběhnout až na silnici a dát se doprava._
 
-{{< figure src="/reporty/img/report-3/Img-12.jpg"
-    link="/reporty/img/report-3/Img-12.jpg"
+{{< figure src="/cs/reporty/img/report-3/Img-12.jpg"
+    link="/cs/reporty/img/report-3/Img-12.jpg"
     caption="Nesprávná cesta nad domy" >}}
 
 Následuje ´´´´úsek, kde se asi 350 m běží po silnici a kde je po pravé
@@ -202,8 +202,8 @@ tak vidím, tak vám ji věnuju!). A přebíhám přes řeku, po můstku a vzhů
 na jeden z nejhorších úseků --- terénem začátek výběhu na Černou.
 Mordor začíná!
 
-{{< figure src="/reporty/img/report-3/Img-13.jpg"
-    link="/reporty/img/report-3/Img-13.jpg"
+{{< figure src="/cs/reporty/img/report-3/Img-13.jpg"
+    link="/cs/reporty/img/report-3/Img-13.jpg"
     caption="A začíná mordor!" >}}
 
 Jsem unavená, nohy začínám nepěkně cítit, třeba nechci, aby se mi rozvázala
@@ -225,8 +225,8 @@ kolem zbořené Sokolské, odbočit před lanovkou k věži, vyfotit (prosím dv
 místní sympaťáky) a hurá dolů! Nade mnou krouží barevná křídla paraglidistů
 --- připadám si jak doma.
 
-{{< figure src="/reporty/img/report-3/Img-14.jpg"
-    link="/reporty/img/report-3/Img-14.jpg" >}}
+{{< figure src="/cs/reporty/img/report-3/Img-14.jpg"
+    link="/cs/reporty/img/report-3/Img-14.jpg" >}}
 
 Běžím dolů, co to jde. S troubením mě míjí pickup a v něm jeden z chlapíků,
 který mě fotil u věže --- zda nechci nabrat --- kupodivu ani nejsem v pokušení.
@@ -241,8 +241,8 @@ _Pro tragédy 4: zde pozor, červená vede nahoru směrem mírně do kopce.
 Když navigace hlásí „pokračujte dále 500 m“, podvědomě člověk bere pravou
 dál po silnici, dále však znamená rovně, tudíž mírně do kopce._
 
-{{< figure src="/reporty/img/report-3/Img-15.jpg"
-    link="/reporty/img/report-3/Img-15.jpg"
+{{< figure src="/cs/reporty/img/report-3/Img-15.jpg"
+    link="/cs/reporty/img/report-3/Img-15.jpg"
     caption="Bacha na odbočku --- je třeba běžet mírně do kopce do lesa." >}}
 
 A pak už poslední kilometry dolů, lesní cestou po červené. Po mých 53 km
@@ -258,8 +258,8 @@ jako by chtěl člově navštívit zahradu domu před sebou --- je tam už znate
 únava a chce se mi brečet --- snad nejsem až takovej tragéd, abych se ztratila
 700 m před cílem!_ 😀
 
-{{< figure src="/reporty/img/report-3/Img-16.jpg"
-    link="/reporty/img/report-3/Img-16.jpg" >}}
+{{< figure src="/cs/reporty/img/report-3/Img-16.jpg"
+    link="/cs/reporty/img/report-3/Img-16.jpg" >}}
 
 ## Statistika
 
@@ -275,8 +275,8 @@ jako by chtěl člově navštívit zahradu domu před sebou --- je tam už znate
   vidím potenciál sundat to pod osm, ale pod sedm je to pro mě už sci-fi
 * gps [strava](//www.strava.com/activities/6022960476)
 
-{{< figure src="/reporty/img/report-3/Img-17.jpg"
-    link="/reporty/img/report-3/Img-17.jpg" >}}
+{{< figure src="/cs/reporty/img/report-3/Img-17.jpg"
+    link="/cs/reporty/img/report-3/Img-17.jpg" >}}
 
 Díky moc klukům z _Černá Sněžka_ --- ani jednou jsem si neřekla --- „Co
 tu dělám?“ Naopak, těším se, že to trochu zlepším. Trasa krásná --- kdybych
