@@ -43,7 +43,7 @@ Legenda: ♂️  muž, ♀️  žena, ♀️  + ♂️ smíšený pár, 🌌 no�
 |     6 | Vojtěch Mlčoch     | 25. 07. 2021 | 08:37:09 | [GPS záznam](//sports-tracker.com/workout/ondejmarek/60fd568e8d65591692983948) | ✅ |
 |     7 | Jiří Křenek        | 19. 09. 2021 | 06:28:06 | [GPS záznam](//www.strava.com/activities/5986147030)          | ✅ 🥈 ♂️       |
 |     8 | Klára Hadašová     | 26. 09. 2021 | 08:34:54 | [GPS záznam](//connect.garmin.com/modern/activity/7557836272) | ✅ 🥈 ♀️       |
-|     9 | Daniel Horyna      | 03. 10. 2021 | 07:07:45 | [GPS záznam](//www.strava.com/activities/6058928795)          | ✅ 🥉 ♂️       |
+|     9 | Daniel Horyna      | 03. 10. 2021 | 07:07:45 | [GPS záznam](//www.strava.com/activities/6058928795)          | ✅            |
 |    10 | Jan Drbohlav       | 25. 11. 2021 | 07:52:12 | [GPS záznam](//www.strava.com/activities/6306101654)          | ✅            |
 
 ### 2022
@@ -56,3 +56,10 @@ Legenda: ♂️  muž, ♀️  žena, ♀️  + ♂️ smíšený pár, 🌌 no�
 |    14 | Tomáš Říha         | 21. 07. 2022 |          |                                                               | ❌ 🌌         |
 |    15 | Zuzana Janová      | 05. 08. 2022 | 09:23:28 | [GPS záznam](//www.strava.com/activities/7587076423)          | ✅ 🥉 ♀️       |
 |    16 | Rudolf Procházka   | 28. 10. 2022 | 06:25:33 | [GPS záznam](//www.strava.com/activities/8031908768)          | ✅ 🥇 ♂️       |
+
+### 2023
+
+| Pokus | Jméno              | Datum        | Čas      | GPS                                                            | Dokončeno     |
+|-------|--------------------|--------------|----------|----------------------------------------------------------------|---------------|
+|    17 | Martin Blokša      | 20. 05. 2022 | 06:45:47 | [GPS záznam](//connect.garmin.com/modern/activity/11156359738) | ✅ 🥉 ♂️       |
+|    18 | Zbyněk Chládek     | 20. 05. 2023 | 06:45:47 | [GPS záznam](//connect.garmin.com/modern/activity/11156359738) | ✅ 🥉 ♂️       |
