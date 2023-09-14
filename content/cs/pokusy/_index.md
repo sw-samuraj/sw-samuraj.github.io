@@ -63,3 +63,6 @@ Legenda: ♂️  muž, ♀️  žena, ♀️  + ♂️ smíšený pár, 🌌 no�
 |-------|--------------------|--------------|----------|----------------------------------------------------------------|---------------|
 |    17 | Martin Blokša      | 20. 05. 2022 | 06:45:47 | [GPS záznam](//connect.garmin.com/modern/activity/11156359738) | ✅ 🥉 ♂️       |
 |    18 | Zbyněk Chládek     | 20. 05. 2023 | 06:45:47 | [GPS záznam](//connect.garmin.com/modern/activity/11156359738) | ✅ 🥉 ♂️       |
+|    19 | Miroslav Matušinec | 02. 09. 2023 | 07:55:19 | [GPS záznam](//www.strava.com/activities/9769232959)           | ✅            |
+|    20 | Robert Sysala      | 02. 09. 2023 | 07:55:19 | [GPS záznam](//www.strava.com/activities/9769232959)           | ✅            |
+|    21 | Daniel Horyna      | 02. 09. 2023 | 07:55:19 | [GPS záznam](//www.strava.com/activities/9769232959)           | ✅            |
